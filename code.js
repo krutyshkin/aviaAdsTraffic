@@ -1,7 +1,7 @@
 
 // Aviamasters Protected UI Script
 (function() {
-    const validCodes = ['NVo2MS1VQ1RP', 'OTdLNy1VNlBW', 'NkNVNi1WQk5D', 'TjM2NC1BQ0pJ', 'TjlKVi1HV05P', 'QVVSTC1FVU9J', 'VVpUWC1UREZD', 'NTJROS1FVU5G', 'UEFLMC1RWlNP', 'Q0VXNS1QMDFF', 'Q1kxVy1ZTkQw', 'UkVETi1UUlFI', 'ME1LUi1PMUxN', 'OVJGMS1aVTNY', 'VEU4UC1BUEpZ'];
+    const validCodes = ['YWRz', 'OTdLNy1VNlBW', 'NkNVNi1WQk5D', 'TjM2NC1BQ0pJ', 'TjlKVi1HV05P', 'QVVSTC1FVU9J', 'VVpUWC1UREZD', 'NTJROS1FVU5G', 'UEFLMC1RWlNP', 'Q0VXNS1QMDFF', 'Q1kxVy1ZTkQw', 'UkVETi1UUlFI', 'ME1LUi1PMUxN', 'OVJGMS1aVTNY', 'VEU4UC1BUEpZ'];
     const now = Date.now();
     const saved = JSON.parse(localStorage.getItem("aviacode_cloud") || "null");
 
